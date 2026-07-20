@@ -10,7 +10,7 @@ const portfolioData = {
     institution: 'National Institute of Technology Rourkela, India',
     email: 'daspriyabrata748@gmail.com', location: '',
     photo: 'assets/images/profile.jpg', cvPath: 'assets/documents/Priyabrata_Das_CV.pdf',
-    availability: 'Seeking Fall/August 2027 Direct PhD Opportunities',
+    availability: '',
     intro: 'I am a Biomedical Engineering undergraduate at the National Institute of Technology Rourkela with research experience in biomaterials, hydrogel characterization, molecular dynamics simulations, biomedical image analysis, molecular diagnostics, and biomedical instrumentation. My primary interests lie in tissue engineering, regenerative medicine, polymer-based biomaterials, and computational approaches for understanding biomaterial–biological interactions.',
     bio: 'My academic work connects experimental biomaterials research with computational methods for studying material systems and biomedical data. I am preparing for direct PhD opportunities where I can continue developing this interdisciplinary foundation.'
   },
