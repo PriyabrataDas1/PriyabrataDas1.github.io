@@ -38,6 +38,6 @@ const portfolioData = {
   professionalDevelopment: ['INAE Technology Conclave 2026, Indian National Academy of Engineering (INAE), Siksha ‘O’ Anusandhan University, Bhubaneswar, India'],
   leadershipService: ['Crime Codon, NIT Rourkela: Organization Head, 2024–25', 'TRUST: Say No To Blind-Beliefs: Volunteer, 2023–Present', 'TEDx DAV Public School Unit-VIII: Operations Team, 2021–22'],
   patents: [{ title: 'Multipurpose Cleaning Tool', application: 'Industrial Design Application No. 459636-001', organization: 'NRDC / Indian Patent Office', description: 'Co-developed a modular cleaning device with an adjustable telescopic mechanism and rotating cleaning assembly for elevated and difficult-to-access surfaces.' }, { title: 'AGRI-FLOW – A Compact Vertical Dryer', application: 'Patent / Industrial Design Application filed through NRDC', organization: 'NRDC / Indian Patent Office', description: 'Co-developed a compact agricultural dryer integrating vertical drying, automated moisture monitoring, and controlled drying for post-harvest loss reduction.' }],
-  socialLinks: { github: 'https://github.com/PriyabrataDas1', linkedin: 'https://www.linkedin.com/in/priyabrata-das-74244033b/', scholar: '', orcid: '', researchgate: '' },
+  socialLinks: { github: 'https://github.com/PriyabrataDas1', linkedin: 'https://www.linkedin.com/in/priyabrata-das-74244033b/', scholar: '', orcid: '', researchgate: 'https://www.researchgate.net/profile/Priyabrata-Das-8' },
   siteSettings: { baseUrl: 'https://priyabratadas1.github.io', lastUpdated: '2026' }
 };
